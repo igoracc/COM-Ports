@@ -1,0 +1,10 @@
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\bin\Debug\SimplePortRead.exe.config
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\bin\Debug\SimplePortRead.exe
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\bin\Debug\SimplePortRead.pdb
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\bin\Debug\SimplePortRead.xml
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.Form1.resources
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.Resources.resources
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.vbproj.GenerateResource.Cache
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.exe
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.xml
+C:\Users\iml7603\Desktop\New folder (2)\SimplePortRead\SimplePortRead\obj\Debug\SimplePortRead.pdb
